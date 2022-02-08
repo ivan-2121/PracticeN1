@@ -1,0 +1,32 @@
+@media screen and (max-width: 600px) {
+    .li1{        
+        padding: 10px 5px 10px 5px;
+        margin-left: 5px;
+    }
+    .li2{
+        padding: 10px 5px 10px 5px;
+        margin-left: 5px;
+    }
+    .link1{
+        font-size: 12px;
+    }
+    .link2{
+        font-size: 12px;
+    }
+    .pg2{
+        display: none;
+    }
+    .link3{
+        display: none;
+    }
+    .blok1{
+        height: 100px;
+    }
+    .preblok1{
+        height: 100px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
